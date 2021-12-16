@@ -1,11 +1,23 @@
 # Objectifs
 
-- html
-- css 
-- javascript
+- HTML
+- CSS
+- Javascript
 
 ## Compétence acquise
 
-- base
+- Base de l'HTML
+- Markdown
 
-markdown
+### Compétence en cours d'acquisition
+
+- HTML
+- Visual Studio
+-
+
+#### Compétence inconnue
+
+- CSS
+- Javascript
+
+
